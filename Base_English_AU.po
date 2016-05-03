@@ -14,7 +14,7 @@ msgstr "Howdy?"
 
 #: 
 msgid "Hello2"
-msgstr "This is a lovely translation"
+msgstr "mistake!"
 
 #: 
 msgctxt "Sensible Context"
