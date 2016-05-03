@@ -12,3 +12,7 @@ msgctxt "main page"
 msgid "Hello"
 msgstr "Howdy?"
 
+#: 
+msgid "Hello2"
+msgstr "lovely translation"
+
