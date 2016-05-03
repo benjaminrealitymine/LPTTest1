@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: AnalyseMe Group1\n"
+"Language: en-au\n"
+
+#: 
+msgid "about_screen_body_text"
+msgstr "Group 1 is a great group to be in. AnalyseMe is a service which helps you take a look at … "
+
