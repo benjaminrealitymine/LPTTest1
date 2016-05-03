@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Base\n"
+"Language: en-au\n"
+
+#: 
+msgid "app_name"
+msgstr "RealityMine app"
+
+#: 
+msgid "service_started"
+msgstr "RealityMine app is running"
+
+#: 
+msgid "register_button_title"
+msgstr "Register"
+
+#: 
+msgid "about_screen_body_text"
+msgstr "This app is a service which helps you take a look ..."
+
