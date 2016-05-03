@@ -16,10 +16,6 @@ msgid "service_started"
 msgstr "RealityMine app is running"
 
 #: 
-msgid "register_button_title"
-msgstr "Register"
-
-#: 
 msgid "about_screen_body_text"
 msgstr "This app is a service which helps you take a look ..."
 
