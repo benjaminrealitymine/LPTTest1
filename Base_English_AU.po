@@ -8,6 +8,11 @@ msgstr ""
 "Language: en-au\n"
 
 #: 
+msgid "app_name"
+msgstr "RealityMine app ive modified it\n"
+""
+
+#: 
 msgid "service_started"
 msgstr "RealityMine app is running"
 
